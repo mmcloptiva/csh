@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="custadmin-intro" path="custadmin-intro.html"/>
+   <appContext helpID="custadmin-home" path="custadmin-home.html"/>
+   <appContext helpID="custadmin-searching" path="custadmin-searching.html"/>
+   <appContext helpID="custadmin-party-list" path="custadmin-party-list.html"/>
+   <appContext helpID="custadmin-create-party" path="custadmin-create-party.html"/>
+   <appContext helpID="custadmin-customer-dash" path="custadmin-customer-dash.html"/>
+   <appContext helpID="custadmin-customer-list" path="custadmin-customer-list.html"/>
+   <appContext helpID="custadmin-new-customer" path="custadmin-new-customer.html"/>
+   <appContext helpID="custadmin-individual-customers"
+               path="custadmin-individual-customers.html"/>
+   <appContext helpID="custadmin-organization-customers"
+               path="custadmin-organization-customers.html"/>
+   <appContext helpID="custadmin-contacts" path="custadmin-contacts.html"/>
+   <appContext helpID="custadmin-accounts" path="custadmin-accounts.html"/>
+   <appContext helpID="custadmin-subs" path="custadmin-subs.html"/>
+   <appContext helpID="custadmin-cases" path="custadmin-cases.html"/>
+   <appContext helpID="custadmin-products" path="custadmin-products.html"/>
+   <appContext helpID="custadmin-orders" path="custadmin-orders.html"/>
+</map>

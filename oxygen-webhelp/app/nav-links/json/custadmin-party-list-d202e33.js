@@ -1,0 +1,1 @@
+define({"topics":[{"title":"Creating a party","shortdesc":"<p class=\"shortdesc\"\/>","href":"custadmin-create-party.html","attributes":{"data-id":"custadmin-create-party"},"menu":{"hasChildren":false},"tocID":"custadmin-create-party-d202e43","topics":[]}]});
